@@ -35,3 +35,4 @@ Git init
 
 ## Все изменения хранятся в instruction_git.md
 Прошу прощения за неудобства
+![cat](https://ohcat.ru/assets/images/img_gallery/112.jpg)
