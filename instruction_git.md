@@ -42,3 +42,5 @@ Git init
 
 ![cat](https://ohcat.ru/assets/images/img_gallery/112.jpg)
 Дописать текст-описание к картинке
+
+</https://ru.wikipedia.org/wiki/Кошка>
