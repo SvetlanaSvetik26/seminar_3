@@ -42,3 +42,7 @@ Git init
 
 ![cat](https://ohcat.ru/assets/images/img_gallery/112.jpg)
 Дописать текст-описание к картинке
+
+Добавить еще одного котика
+
+![cat2](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotov-37.jpg)
