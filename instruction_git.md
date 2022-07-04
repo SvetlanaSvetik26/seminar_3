@@ -41,3 +41,4 @@ Git init
 Отдых  | Git 20:00   | Гибкие методологии  | Отдых | Git 20:00
 
 ![cat](https://ohcat.ru/assets/images/img_gallery/112.jpg)
+Дописать текст-описание к картинке
