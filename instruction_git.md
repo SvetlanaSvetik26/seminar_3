@@ -46,3 +46,4 @@ Git init
 Добавить еще одного котика
 
 ![cat2](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotov-37.jpg)
+</https://ru.wikipedia.org/wiki/Кошка>
